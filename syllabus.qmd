@@ -1,0 +1,19 @@
+---
+title: "Syllabus"
+---
+
+## Teaching team
+
+### Instructor
+
+| Name | Contact | Office Hours |   |
+|-----------------------|------------|--------------------|-----------------|
+| Maghfira Ramadhani, M.S. M.A. | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" class="email-icon" width="25" height="25"/>](mailto:maghfira.ramadhani@gatech.edu) | Tue 12p-1p (Sign up [here](https://outlook.office.com/bookwithme/user/951a0a27d4b04de1960b5a3481e0d4cf%40gatech.edu?anonymous)) | [Zoom](https://gatech.zoom.us/my/afiramadhani) |
+
+: {.striped .hover .info .primary}
+
+### Teaching Assistants
+
+## Course info
+
+This course ....

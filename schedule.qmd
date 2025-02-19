@@ -1,0 +1,13 @@
+---
+title: "Schedule"
+---
+
+|         |     |     | Prep | Slides                    | Activity | Studio | PS  | Exam |
+|---------|-----|-----|------|---------------------------|----------|--------|-----|------|
+| Week 01 | Mon |     |      | [1](slides/1-introduction.html)   |          |        |     |      |
+|         | Wed |     |      | [1](slides/2-probability.html)    |          |        |     |      |
+|         |     |     |      |                           |          |        |     |      |
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -1,0 +1,31 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - syllabus.qmd
+    - schedule.qmd
+    - slides/1-introduction.qmd
+    - slides/2-probability.qmd
+
+website:
+  title: "ECON2250 Statistics and Economics"
+  navbar:
+    background: primary
+    left:
+      - href: https://maghfiraer.github.io/
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
+      - href: https://gatech.instructure.com/courses/415596
+        text: Canvas
+    tools:
+      - icon: github
+        href: https://github.com/maghfiraer
+
+format:
+  html:
+    theme: spacelab #sandstone, solar, spacelab
+    css: styles.css
+    toc: true
